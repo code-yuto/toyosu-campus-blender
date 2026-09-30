@@ -22,7 +22,8 @@ image/**
 !image/09_OpenStreetMap/*.json
 !image/09_OpenStreetMap/osm_campus_plot.png
 
-# PLATEAU（CC BY 4.0）から取り出した属性だけ
+# PLATEAU（CC BY 4.0）の取得スクリプトと、取り出した属性だけ
+!image/08_PLATEAU_3D建物データ/*.py
 !image/08_PLATEAU_3D建物データ/citygml/campus_buildings_attrs.json
 
 # 位置・寸法の検証スクリプトと結果
