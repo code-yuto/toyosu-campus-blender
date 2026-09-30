@@ -1,0 +1,93 @@
+[
+ {
+  "id": "BLD_2f37cc54-8403-40e6-85a6-3556dca380a7",
+  "centroid": [
+   -217.6,
+   -44.0
+  ],
+  "measuredHeight": "37.1",
+  "storeysAbove": null,
+  "storeysBelow": null,
+  "usage": null,
+  "yearOfConstruction": null,
+  "name": null,
+  "zmin": 2.0,
+  "zmax": 37.5,
+  "gen": {
+   "建物ID": "13108-bldg-4635",
+   "大字・町コード": "30",
+   "町・丁目コード": "3",
+   "13_区市町村コード_大字・町コード_町・丁目コード": "13108030003",
+   "規模": "L2",
+   "浸水ランク": "1"
+  },
+  "uro": {
+   "buildingRoofEdgeArea": "1507.90284",
+   "districtsAndZonesType": "12",
+   "prefecture": "13",
+   "city": "13108",
+   "surveyYear": "2016",
+   "key": "106",
+   "codeValue": "10"
+  }
+ },
+ {
+  "id": "BLD_b823dba3-fe5e-4c57-bd22-ab2bfd06661c",
+  "centroid": [
+   -110.5,
+   20.3
+  ],
+  "measuredHeight": "69.0",
+  "storeysAbove": null,
+  "storeysBelow": null,
+  "usage": null,
+  "yearOfConstruction": null,
+  "name": "芝浦工業大学豊洲キャンパス",
+  "zmin": 1.9,
+  "zmax": 39.4,
+  "gen": {
+   "建物ID": "13108-bldg-4718",
+   "大字・町コード": "30",
+   "町・丁目コード": "3",
+   "13_区市町村コード_大字・町コード_町・丁目コード": "13108030003",
+   "規模": "L2",
+   "浸水ランク": "1"
+  },
+  "uro": {
+   "buildingRoofEdgeArea": "5526.47247",
+   "districtsAndZonesType": "12",
+   "prefecture": "13",
+   "city": "13108",
+   "surveyYear": "2016",
+   "key": "106",
+   "codeValue": "10"
+  }
+ },
+ {
+  "id": "BLD_63f07166-23cd-4977-8b52-23aef065f721",
+  "centroid": [
+   -115.7,
+   -35.2
+  ],
+  "measuredHeight": "6.0",
+  "storeysAbove": null,
+  "storeysBelow": null,
+  "usage": null,
+  "yearOfConstruction": null,
+  "name": null,
+  "zmin": 1.9,
+  "zmax": 7.8,
+  "gen": {
+   "建物ID": "13108-bldg-4619",
+   "規模": "L2",
+   "浸水ランク": "1"
+  },
+  "uro": {
+   "districtsAndZonesType": "12",
+   "prefecture": "13",
+   "city": "13108",
+   "key": "106",
+   "codeValue": "10"
+  }
+ }
+]
