@@ -1,0 +1,37 @@
+# Blender の自動バックアップ
+*.blend1
+*.blend2
+
+# Python
+__pycache__/
+*.pyc
+
+# GitHub へ上げる前の下書き（issue / PR の本文）
+_github_drafts/
+
+# ---- 参考資料 image/ ----
+# 他人が著作権を持つ画像・PDF（大学公式サイト、学会資料、Esri 航空写真など）や
+# 大きいデータは入れない。取り直し方は image/README.md に書いてある。
+# 自分で作ったスクリプト・変換済みデータ・再配布できるものだけを入れる。
+image/**
+!image/**/
+!image/README.md
+
+# OpenStreetMap（ODbL：出典を書けば再配布可）と座標変換
+!image/09_OpenStreetMap/*.py
+!image/09_OpenStreetMap/*.json
+!image/09_OpenStreetMap/osm_campus_plot.png
+
+# PLATEAU（CC BY 4.0）から取り出した属性だけ
+!image/08_PLATEAU_3D建物データ/citygml/campus_buildings_attrs.json
+
+# 位置・寸法の検証スクリプトと結果
+!image/10_航空写真_国土地理院/*.py
+!image/10_航空写真_国土地理院/*.json
+# 国土地理院の写真を使った重ね合わせ図（出典を書けば利用可）
+!image/10_航空写真_国土地理院/overlay_all.png
+!image/10_航空写真_国土地理院/overlay_north.png
+!image/10_航空写真_国土地理院/overlay_south.png
+# Esri の画像は再配布できないので入れない
+image/10_航空写真_国土地理院/esri*
+image/10_航空写真_国土地理院/esri/
